@@ -1,4 +1,0 @@
-Dataset: Iris Dataset
-Source: Scikit-learn built-in Iris dataset
-Python package: scikit-learn
-Dataset description: 150 samples, 4 features, 3 target classes
